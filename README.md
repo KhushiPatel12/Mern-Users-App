@@ -1,11 +1,11 @@
 # MERN-UsersApp
 
-* UsersApp with
+UsersApp with
 - Frontend (React)
 - Backend (Node - Express)
 - Database (MongoDB) (local)
 
-* Frontend consists of :-
+Frontend consists of :-
 - Register
 - Login
 - Search other users
