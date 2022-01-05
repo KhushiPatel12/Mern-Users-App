@@ -1,4 +1,4 @@
-# MERN-UsersApp
+# MERN-Users-App
 
 UsersApp with
 - Frontend (React)
